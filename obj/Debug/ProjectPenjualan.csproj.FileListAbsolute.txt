@@ -1,0 +1,5 @@
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Responsi Sem2\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Responsi Sem2\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Responsi Sem2\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Responsi Sem2\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Responsi Sem2\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
